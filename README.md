@@ -53,7 +53,7 @@ public class script : MonoBehaviour
 }
 ```
 # Output :
-WhatsApp Image 2024-04-29 at 09 57 30
+![Screenshot 2024-05-16 115544](https://github.com/Vaishnavi-saravanan/Ex5-Animator-Movement/assets/118541897/71a68582-64c4-4149-be32-a8f6d77c43bf)
 
 # Result :
 An animator movement for a player using unity is developed successfully.
